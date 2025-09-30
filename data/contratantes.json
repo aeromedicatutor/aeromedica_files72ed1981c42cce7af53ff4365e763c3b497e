@@ -1,6 +1,11 @@
 [
-  { "nome": "Unimed Nacional", "pct": 20.52, "fornecedores": [
-    { "fornecedor": "Fornecedor 1", "especifico": "Atende todas as linhas", "estados": ["Todos"] },
+  { "nome": "CNU Central Nacional Unimed", "pct": 20.52, "fornecedores": [
+    { "fornecedor": "Salvar", "especifico": "UTI E BASICA", "estados": ["ALAGOAS"] },
+    { "fornecedor": "Amazon Resgate", "especifico": "UTI E BASICA", "estados": ["AMAZONAS"] },
+    { "fornecedor": "UNIMED ILHEUS", "especifico": "UTI E BASICA", "estados": ["BAHIA"] },
+    { "fornecedor": "TRANSMEDI", "especifico": "UTI E BASICA", "estados": ["BAHIA"] },
+    { "fornecedor": "AMO VIDA", "especifico": "UTI E BASICA", "estados": ["BAHIA"] },
+    { "fornecedor": "LEVE SAUDE", "especifico": "UTI E BASICA", "estados": ["BAHIA"] },
     { "fornecedor": "Fornecedor 2", "especifico": "Especialidade X", "estados": ["Todos"] }
   ]},
   { "nome": "Unimed Sete Lagoas", "pct": 16.74, "fornecedores": [
@@ -30,5 +35,6 @@
   ]},
   { "nome": "UNIMED JUIZ DE FORA", "pct": null, "fornecedores": []}
 ]
+
 
 
